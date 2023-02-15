@@ -36,7 +36,7 @@ public class Lab {
      */
     public int getSize(Map<Integer,String> map){
 //        return total number of key/value pairs in the map
-        return 0;
+        return 1;
     }
 
     /**
