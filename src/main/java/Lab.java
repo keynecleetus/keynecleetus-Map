@@ -33,6 +33,7 @@ public class Lab {
      * Get the size of a map. (number of key/value paris)
      * @param map a map to be manipulated.
      * @return the size of map.
+     * 
      */
     public int getSize(Map<Integer,String> map){
 //        return total number of key/value pairs in the map
